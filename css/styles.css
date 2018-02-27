@@ -1,3 +1,6 @@
 body {
   border: 10px solid white;
 }
+.result{
+  display: none;
+}
